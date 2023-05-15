@@ -1,5 +1,4 @@
 res://scenes/main/main.tscn
 res://resources/tileset.tres
-res://scenes/basic_enemy/basic_enemy.tscn
-res://scenes/basic_enemy/basic_enemy.gd
 res://scenes/player/player.tscn
+res://scenes/basic_enemy/basic_enemy.tscn
