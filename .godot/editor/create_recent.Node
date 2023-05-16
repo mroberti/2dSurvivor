@@ -1,6 +1,7 @@
-CollisionShape2D
+Node
+Node2D
 Sprite2D
+CollisionShape2D
 CharacterBody2D
 Camera2D
 TileMap
-Node

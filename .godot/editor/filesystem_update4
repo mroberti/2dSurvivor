@@ -1,4 +1,3 @@
-res://scenes/main/main.tscn
 res://resources/tileset.tres
-res://scenes/player/player.tscn
-res://scenes/basic_enemy/basic_enemy.tscn
+res://scenes/ability/sword_ability/sword_ability.tscn
+res://scenes/ability/sword_ability_controller/sword_ability_controller.tscn

@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://0mo5504mfcta"]
+
+[ext_resource type="Script" path="res://scenes/ability/sword_ability_controller/sword_ability_controller.gd" id="1_l654t"]
+
+[node name="SwordAbilityController" type="Node"]
+script = ExtResource("1_l654t")
