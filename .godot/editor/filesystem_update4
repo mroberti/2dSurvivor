@@ -1,2 +1,6 @@
 res://scenes/ability/sword_ability/sword_ability.tscn
 res://resources/tileset.tres
+res://scenes/main/main.tscn
+res://scenes/ability/sword_ability_controller/sword_ability_controller.tscn
+res://scenes/ability/sword_ability_controller/sword_ability_controller.gd
+res://scenes/player/player.tscn

@@ -1,5 +1,5 @@
 2a60927148abd1d33b818b535e306557
-::res://::1684419768
+::res://::1684621845
 icon.svg::CompressedTexture2D::3446151055761273308::1683997123::1683997128::1::::<><>::
 ::res://assets/::1684166050
 ::res://assets/environment/::1684166050
@@ -145,13 +145,13 @@ tile_0128.png::CompressedTexture2D::707704595419447522::1657054867::1684163960::
 tile_0129.png::CompressedTexture2D::7543436984375613402::1657054867::1684163960::1::::<><>::
 tile_0130.png::CompressedTexture2D::1095090731906205374::1657054867::1684163960::1::::<><>::
 tile_0131.png::CompressedTexture2D::6275747624167233912::1657054867::1684163960::1::::<><>::
-::res://resources/::1684166050
-tileset.tres::TileSet::2633882843826077747::1684338324::0::1::::<><>::uid://051h2nln0sk4
+::res://resources/::1684419818
+tileset.tres::TileSet::2633882843826077747::1684419818::0::1::::<><>::uid://051h2nln0sk4
 ::res://scenes/::1684248388
 ::res://scenes/ability/::1684248388
-::res://scenes/ability/sword_ability/::1684419749
+::res://scenes/ability/sword_ability/::1684419818
 sword.png::CompressedTexture2D::6302787594715612284::1657054866::1684248654::1::::<><>::
-sword_ability.tscn::PackedScene::6990131993377998694::1684419749::0::1::::<><>::uid://cv2d8xn3bxkvc
+sword_ability.tscn::PackedScene::6990131993377998694::1684419818::0::1::::<><>::uid://cv2d8xn3bxkvc
 ::res://scenes/ability/sword_ability_controller/::1684248388
 sword_ability_controller.gd::GDScript::-1::1684249206::0::1::::<>Node<>::
 sword_ability_controller.tscn::PackedScene::2885672951606618044::1684254371::0::1::::<><>::res://scenes/ability/sword_ability_controller/sword_ability_controller.gd
