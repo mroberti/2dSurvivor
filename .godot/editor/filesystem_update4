@@ -4,3 +4,5 @@ res://scenes/main/main.tscn
 res://scenes/ability/sword_ability_controller/sword_ability_controller.tscn
 res://scenes/ability/sword_ability_controller/sword_ability_controller.gd
 res://scenes/player/player.tscn
+res://scenes/basic_enemy/basic_enemy.tscn
+res://scenes/basic_enemy/basic_enemy.gd

@@ -1,9 +1,10 @@
+CollisionShape2D
+Area2D
 Timer
 AnimationPlayer
 Node
 Node2D
 Sprite2D
-CollisionShape2D
 CharacterBody2D
 Camera2D
 TileMap
