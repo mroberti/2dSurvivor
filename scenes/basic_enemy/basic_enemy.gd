@@ -1,6 +1,6 @@
 extends CharacterBody2D
 
-const MAX_SPEED = 75
+const MAX_SPEED = 40
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
@@ -21,4 +21,5 @@ func get_directionr_to_player():
 	return Vector2.ZERO
 
 func on_area_entered(other_area: Area2D):
+	print("Area entered?")
 	queue_free()

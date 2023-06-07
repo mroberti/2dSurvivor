@@ -8,4 +8,5 @@ script = ExtResource("1_neads")
 basic_enemy_scene = ExtResource("2_gpqde")
 
 [node name="Timer" type="Timer" parent="."]
+wait_time = 0.5
 autostart = true

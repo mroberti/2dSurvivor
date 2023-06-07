@@ -1,5 +1,9 @@
+Label
+MarginContainer
+CanvasLayer
 Timer
 Node
+TextureRect
 CollisionShape2D
 Area2D
 AnimationPlayer
