@@ -1,16 +1,4 @@
-res://scenes/game_camera/game_camera.tscn
-res://resources/tileset.tres
-res://scenes/game_camera/game_camera.gd
 res://scenes/main/main.tscn
-res://scenes/player/player.tscn
-res://scenes/player/player.gd
-res://scenes/basic_enemy/basic_enemy.tscn
-res://scenes/basic_enemy/basic_enemy.gd
-res://scenes/ability/sword_ability/sword_ability.tscn
-res://scenes/ability/sword_ability_controller/sword_ability_controller.tscn
-res://scenes/ability/sword_ability_controller/sword_ability_controller.gd
-res://scenes/manager/enemy_manager.tscn
+res://resources/tileset.tres
 res://scenes/manager/arena_time_manager.tscn
 res://scenes/ui/arena_time_ui.tscn
-res://scenes/manager/arena_time_manager.gd
-res://scenes/ui/arena_time_ui.gd
