@@ -1,4 +1,9 @@
-res://scenes/main/main.tscn
 res://resources/tileset.tres
-res://scenes/manager/arena_time_manager.tscn
-res://scenes/ui/arena_time_ui.tscn
+res://scenes/game_object/player/player.tscn
+res://scenes/game_object/experience_vial/experience_vial.tscn
+res://scenes/game_object/experience_vial/experience_vial.gd
+res://scenes/main/main.tscn
+res://scenes/manager/experience_manager.tscn
+res://scenes/manager/experience_manager.gd
+res://scenes/autoload/game_event.tscn
+res://scenes/autoload/game_event.gd

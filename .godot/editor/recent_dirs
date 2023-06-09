@@ -1,11 +1,12 @@
-res://scenes/ui
+res://scenes/autoload
 res://scenes/manager
+res://scenes/game_object/player
+res://scenes/game_object/experience_vial
+res://scenes/ui
 res://scenes/ability/sword_ability_controller
 res://scenes/ability/sword_ability
 C:/Program Files/Microsoft VS Code
 C:/Users/Mario/Documents/Godot Projects
-res://scenes/basic_enemy
-res://scenes/game_camera
 res://resources
 res://scenes/main
 res://
